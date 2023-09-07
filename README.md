@@ -1,7 +1,7 @@
 # Data-Structure
 ## Course Overview
 
-This course was focused in apllying linear, hierarchical and generar-purpose data structures to solve multiple types of media problems involving memory and disk operations. The primary objectives included:
+This course was focused in applying linear, hierarchical and generar-purpose data structures to solve multiple types of media problems involving memory and disk operations. The primary objectives included:
 
 - Implement solutions using the various data structures learned
 - Elaborate detailed designs of solutions based on structures of data that allow you to solve real-life problems
