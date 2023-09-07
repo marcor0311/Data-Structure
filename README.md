@@ -11,4 +11,4 @@ This course was focused in applying linear, hierarchical and general-purpose dat
 
 ## Implementation
 
-It's important to note that all course concepts and examples were practically implemented using C
+It's important to note that all course concepts and examples were implemented using C
