@@ -20,6 +20,6 @@ Analyze the intersection of technology and the urgent environmental crisis, ques
 
 ## Links
 
-1. [Direct Link to My PDF](#)
-2. [Direct Link to Magazine's PDF](#)
-3. [GitLab Repository for All Editions](#)
+1. [Direct Link to My PDF](https://github.com/marcor0311/Data-Structure/blob/main/Essay/essay_marco.pdf)
+2. [Direct Link to Magazine's PDF](https://github.com/marcor0311/Data-Structure/blob/main/Essay/Del%20zacate%20al%20papel-n%C3%BAmero_1.pdf)
+3. [GitLab Repository for All Editions](https://zacate.gitlab.io/)
