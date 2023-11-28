@@ -8,15 +8,15 @@ Welcome to the repository for the inaugural issue of "Del Zacate al Papel: Hacia
 
 ### 1. The Impact of Economic and Political Models on Technology Development
 
-Explore the influence of various economic and political models on the development of technology.
+Explore how economic and political models, such as anarchism, communism, socialism, capitalism, etc., affect the development of technology.
 
-### 2. Formation of Technology Creators
+### 2. Students in the Field of Computing
 
-Gain insights into the education and development of individuals who contribute to technological innovations, with a specific focus on computer science students.
+Examine how individuals who create technology are educated and formed. What impact does this formation have on technology development?
 
-### 3. Technology's Role in the Climate Emergency
+### 3. The Role of Technology in the Climate Emergency
 
-Analyze the intersection of technology and the urgent environmental crisis, questioning whether technology exacerbates or mitigates the challenges we face.
+Investigate whether technology is responsible for the planet's decline or if it can be its savior in the midst of the climate emergency.
 
 ## Links
 
